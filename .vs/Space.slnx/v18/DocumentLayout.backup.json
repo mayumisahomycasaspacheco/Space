@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YUYU\\Desktop\\Space\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C63AD10-E1A5-F722-43FA-4484004632C6}|Space.vcxproj|C:\\Users\\YUYU\\Desktop\\Space\\Lista_Astronautas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C63AD10-E1A5-F722-43FA-4484004632C6}|Space.vcxproj|solutionrelative:Lista_Astronautas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C63AD10-E1A5-F722-43FA-4484004632C6}|Space.vcxproj|C:\\Users\\YUYU\\Desktop\\Space\\Cohete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C63AD10-E1A5-F722-43FA-4484004632C6}|Space.vcxproj|solutionrelative:Cohete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C63AD10-E1A5-F722-43FA-4484004632C6}|Space.vcxproj|C:\\Users\\YUYU\\Desktop\\Space\\Astronauta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C63AD10-E1A5-F722-43FA-4484004632C6}|Space.vcxproj|solutionrelative:Astronauta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista_Astronautas.h",
+              "DocumentMoniker": "C:\\Users\\YUYU\\Desktop\\Space\\Lista_Astronautas.h",
+              "RelativeDocumentMoniker": "Lista_Astronautas.h",
+              "ToolTip": "C:\\Users\\YUYU\\Desktop\\Space\\Lista_Astronautas.h",
+              "RelativeToolTip": "Lista_Astronautas.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-14T14:14:28.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cohete.h",
+              "DocumentMoniker": "C:\\Users\\YUYU\\Desktop\\Space\\Cohete.h",
+              "RelativeDocumentMoniker": "Cohete.h",
+              "ToolTip": "C:\\Users\\YUYU\\Desktop\\Space\\Cohete.h",
+              "RelativeToolTip": "Cohete.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-12T14:15:09.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Astronauta.h",
+              "DocumentMoniker": "C:\\Users\\YUYU\\Desktop\\Space\\Astronauta.h",
+              "RelativeDocumentMoniker": "Astronauta.h",
+              "ToolTip": "C:\\Users\\YUYU\\Desktop\\Space\\Astronauta.h",
+              "RelativeToolTip": "Astronauta.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-12T14:11:07.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
