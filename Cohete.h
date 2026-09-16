@@ -1,28 +1,23 @@
 #pragma once
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 class Cohete
 {
 private:
-	//Atributos
 	string nombre;
 	int x, y;
 	int dx, dy;
 public:
-	//Constructor
 	Cohete(string pnombre, int px, int py, int pdx, int pdy);
-	//Destructor
 	~Cohete();
 
-	//Declaracion de get
 	string getnombre();
 	int getx();
 	int gety();
 	int getdx();
 	int getdy();
 
-	//Declaracion de set
 	void setnombre(string pnombre);
 	void setx(int px);
 	void sety(int py);
@@ -30,9 +25,6 @@ public:
 	void setdy(int pdy);
 };
 
-//Implementación
-
-//Del constructor
 Cohete::Cohete(string pnombre, int px, int py, int pdx, int pdy)
 {
 	nombre = pnombre;
@@ -42,7 +34,10 @@ Cohete::Cohete(string pnombre, int px, int py, int pdx, int pdy)
 	dy = pdy;
 }
 
-//De get
+Cohete::~Cohete()
+{
+}
+
 string Cohete::getnombre()
 {
 	return nombre;
@@ -67,8 +62,6 @@ int Cohete::getdy()
 {
 	return dy;
 }
-
-//De set
 
 void Cohete::setnombre(string pnombre)
 {
